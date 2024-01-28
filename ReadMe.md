@@ -106,8 +106,8 @@ id: Angola
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Angola//
-markerFolder: ./Angola//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Angola] 
