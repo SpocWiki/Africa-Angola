@@ -29,6 +29,11 @@ expiryDate:
 
 # Zaire
 
+**[Zaire](https://en.wikipedia.org/wiki/Zaire)** was the name between 1971 and 1997 of what is now the [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo "Democratic Republic of the Congo") 
+
+## #has_/map  
+
+
 ```leaflet
 id: Zaire
 zoomFeatures: true 
