@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AGO
 - Angola
 - أنغولا
 - 安哥拉
