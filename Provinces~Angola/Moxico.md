@@ -40,11 +40,18 @@ markerFolder: ./Moxico/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Moxico|Moxico]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Moxico.public|Moxico.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Moxico.internal|Moxico.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Moxico.protect|Moxico.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Moxico.private|Moxico.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Moxico.personal|Moxico.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Moxico.secret|Moxico.secret]] 
+
+### #is_/same_as :: [Moxico](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.md) 
+
+### #is_/same_as :: [Moxico.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.public.md) 
+
+### #is_/same_as :: [Moxico.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.internal.md) 
+
+### #is_/same_as :: [Moxico.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.protect.md) 
+
+### #is_/same_as :: [Moxico.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.private.md) 
+
+### #is_/same_as :: [Moxico.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.personal.md) 
+
+### #is_/same_as :: [Moxico.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Moxico.secret.md)
 

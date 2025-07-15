@@ -40,11 +40,18 @@ markerFolder: ./Cuanza_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Cuanza_Norte|Cuanza_Norte]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.public|Cuanza_Norte.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.internal|Cuanza_Norte.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.protect|Cuanza_Norte.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.private|Cuanza_Norte.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.personal|Cuanza_Norte.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuanza_Norte.secret|Cuanza_Norte.secret]] 
+
+### #is_/same_as :: [Cuanza_Norte](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.md) 
+
+### #is_/same_as :: [Cuanza_Norte.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.public.md) 
+
+### #is_/same_as :: [Cuanza_Norte.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.internal.md) 
+
+### #is_/same_as :: [Cuanza_Norte.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.protect.md) 
+
+### #is_/same_as :: [Cuanza_Norte.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.private.md) 
+
+### #is_/same_as :: [Cuanza_Norte.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.personal.md) 
+
+### #is_/same_as :: [Cuanza_Norte.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Norte.secret.md)
 

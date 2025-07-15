@@ -129,10 +129,4 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Angola|Angola]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Angola.internal|Angola.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Angola.protect|Angola.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Angola.private|Angola.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Angola.personal|Angola.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Angola.secret|Angola.secret]] 
+

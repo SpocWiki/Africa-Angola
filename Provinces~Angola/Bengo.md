@@ -40,11 +40,18 @@ markerFolder: ./Bengo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Bengo|Bengo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Bengo.public|Bengo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Bengo.internal|Bengo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Bengo.protect|Bengo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Bengo.private|Bengo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Bengo.personal|Bengo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Bengo.secret|Bengo.secret]] 
+
+### #is_/same_as :: [Bengo](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.md) 
+
+### #is_/same_as :: [Bengo.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.public.md) 
+
+### #is_/same_as :: [Bengo.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.internal.md) 
+
+### #is_/same_as :: [Bengo.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.protect.md) 
+
+### #is_/same_as :: [Bengo.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.private.md) 
+
+### #is_/same_as :: [Bengo.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.personal.md) 
+
+### #is_/same_as :: [Bengo.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bengo.secret.md)
 

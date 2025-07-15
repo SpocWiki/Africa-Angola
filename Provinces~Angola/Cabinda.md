@@ -40,11 +40,18 @@ markerFolder: ./Cabinda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Cabinda|Cabinda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Cabinda.public|Cabinda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Cabinda.internal|Cabinda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Cabinda.protect|Cabinda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Cabinda.private|Cabinda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Cabinda.personal|Cabinda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Cabinda.secret|Cabinda.secret]] 
+
+### #is_/same_as :: [Cabinda](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.md) 
+
+### #is_/same_as :: [Cabinda.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.public.md) 
+
+### #is_/same_as :: [Cabinda.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.internal.md) 
+
+### #is_/same_as :: [Cabinda.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.protect.md) 
+
+### #is_/same_as :: [Cabinda.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.private.md) 
+
+### #is_/same_as :: [Cabinda.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.personal.md) 
+
+### #is_/same_as :: [Cabinda.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cabinda.secret.md)
 

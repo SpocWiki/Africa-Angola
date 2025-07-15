@@ -40,11 +40,18 @@ markerFolder: ./Namibe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Namibe|Namibe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Namibe.public|Namibe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Namibe.internal|Namibe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Namibe.protect|Namibe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Namibe.private|Namibe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Namibe.personal|Namibe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Namibe.secret|Namibe.secret]] 
+
+### #is_/same_as :: [Namibe](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.md) 
+
+### #is_/same_as :: [Namibe.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.public.md) 
+
+### #is_/same_as :: [Namibe.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.internal.md) 
+
+### #is_/same_as :: [Namibe.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.protect.md) 
+
+### #is_/same_as :: [Namibe.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.private.md) 
+
+### #is_/same_as :: [Namibe.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.personal.md) 
+
+### #is_/same_as :: [Namibe.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Namibe.secret.md)
 

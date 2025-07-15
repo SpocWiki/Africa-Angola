@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-8.8,13.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/City/Luanda|Luanda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/City/Luanda.public|Luanda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/City/Luanda.internal|Luanda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/City/Luanda.protect|Luanda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/City/Luanda.private|Luanda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/City/Luanda.personal|Luanda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/City/Luanda.secret|Luanda.secret]] 
+
+### #is_/same_as :: [Luanda](/_Standards/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.md) 
+
+### #is_/same_as :: [Luanda.public](/_public/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.public.md) 
+
+### #is_/same_as :: [Luanda.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.internal.md) 
+
+### #is_/same_as :: [Luanda.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.protect.md) 
+
+### #is_/same_as :: [Luanda.private](/_private/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.private.md) 
+
+### #is_/same_as :: [Luanda.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.personal.md) 
+
+### #is_/same_as :: [Luanda.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/City/Luanda.secret.md)
+

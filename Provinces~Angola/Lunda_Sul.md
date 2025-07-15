@@ -40,11 +40,18 @@ markerFolder: ./Lunda_Sul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Lunda_Sul|Lunda_Sul]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Lunda_Sul.public|Lunda_Sul.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.internal|Lunda_Sul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Lunda_Sul.protect|Lunda_Sul.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Lunda_Sul.private|Lunda_Sul.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Lunda_Sul.personal|Lunda_Sul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Lunda_Sul.secret|Lunda_Sul.secret]] 
+
+### #is_/same_as :: [Lunda_Sul](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.md) 
+
+### #is_/same_as :: [Lunda_Sul.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.public.md) 
+
+### #is_/same_as :: [Lunda_Sul.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.internal.md) 
+
+### #is_/same_as :: [Lunda_Sul.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.protect.md) 
+
+### #is_/same_as :: [Lunda_Sul.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.private.md) 
+
+### #is_/same_as :: [Lunda_Sul.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.personal.md) 
+
+### #is_/same_as :: [Lunda_Sul.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Sul.secret.md)
 

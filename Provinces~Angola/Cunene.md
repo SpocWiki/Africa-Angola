@@ -40,11 +40,18 @@ markerFolder: ./Cunene/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Cunene|Cunene]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Cunene.public|Cunene.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Cunene.internal|Cunene.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Cunene.protect|Cunene.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Cunene.private|Cunene.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Cunene.personal|Cunene.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Cunene.secret|Cunene.secret]] 
+
+### #is_/same_as :: [Cunene](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.md) 
+
+### #is_/same_as :: [Cunene.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.public.md) 
+
+### #is_/same_as :: [Cunene.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.internal.md) 
+
+### #is_/same_as :: [Cunene.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.protect.md) 
+
+### #is_/same_as :: [Cunene.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.private.md) 
+
+### #is_/same_as :: [Cunene.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.personal.md) 
+
+### #is_/same_as :: [Cunene.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cunene.secret.md)
 

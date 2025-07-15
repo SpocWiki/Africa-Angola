@@ -40,11 +40,18 @@ markerFolder: ./Cuando_Cubango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Cuando_Cubango|Cuando_Cubango]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.public|Cuando_Cubango.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.internal|Cuando_Cubango.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.protect|Cuando_Cubango.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.private|Cuando_Cubango.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.personal|Cuando_Cubango.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Cuando_Cubango.secret|Cuando_Cubango.secret]] 
+
+### #is_/same_as :: [Cuando_Cubango](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.md) 
+
+### #is_/same_as :: [Cuando_Cubango.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.public.md) 
+
+### #is_/same_as :: [Cuando_Cubango.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.internal.md) 
+
+### #is_/same_as :: [Cuando_Cubango.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.protect.md) 
+
+### #is_/same_as :: [Cuando_Cubango.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.private.md) 
+
+### #is_/same_as :: [Cuando_Cubango.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.personal.md) 
+
+### #is_/same_as :: [Cuando_Cubango.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.secret.md)
 

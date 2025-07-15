@@ -40,11 +40,18 @@ markerFolder: ./Luanda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Angola/Counties/Luanda|Luanda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Angola/Counties/Luanda.public|Luanda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Angola/Counties/Luanda.internal|Luanda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Angola/Counties/Luanda.protect|Luanda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Angola/Counties/Luanda.private|Luanda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Angola/Counties/Luanda.personal|Luanda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Angola/Counties/Luanda.secret|Luanda.secret]] 
+
+### #is_/same_as :: [Luanda](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.md) 
+
+### #is_/same_as :: [Luanda.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.public.md) 
+
+### #is_/same_as :: [Luanda.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.internal.md) 
+
+### #is_/same_as :: [Luanda.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.protect.md) 
+
+### #is_/same_as :: [Luanda.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.private.md) 
+
+### #is_/same_as :: [Luanda.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.personal.md) 
+
+### #is_/same_as :: [Luanda.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.secret.md)
 
