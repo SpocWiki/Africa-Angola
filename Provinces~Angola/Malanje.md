@@ -40,17 +40,17 @@ markerFolder: ./Malanje/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malanje](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje|Malanje]] 
 
-### #is_/same_as :: [Malanje.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.public|Malanje.public]] 
 
-### #is_/same_as :: [Malanje.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.internal|Malanje.internal]] 
 
-### #is_/same_as :: [Malanje.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.protect|Malanje.protect]] 
 
-### #is_/same_as :: [Malanje.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.private|Malanje.private]] 
 
-### #is_/same_as :: [Malanje.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.personal|Malanje.personal]] 
 
-### #is_/same_as :: [Malanje.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Malanje.secret|Malanje.secret]] 
 

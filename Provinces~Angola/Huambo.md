@@ -40,17 +40,17 @@ markerFolder: ./Huambo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huambo](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo|Huambo]] 
 
-### #is_/same_as :: [Huambo.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.public|Huambo.public]] 
 
-### #is_/same_as :: [Huambo.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.internal|Huambo.internal]] 
 
-### #is_/same_as :: [Huambo.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.protect|Huambo.protect]] 
 
-### #is_/same_as :: [Huambo.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.private|Huambo.private]] 
 
-### #is_/same_as :: [Huambo.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.personal|Huambo.personal]] 
 
-### #is_/same_as :: [Huambo.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huambo.secret|Huambo.secret]] 
 

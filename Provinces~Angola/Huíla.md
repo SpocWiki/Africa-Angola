@@ -40,17 +40,17 @@ markerFolder: ./Huíla/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huíla](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla|Huíla]] 
 
-### #is_/same_as :: [Huíla.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.public|Huíla.public]] 
 
-### #is_/same_as :: [Huíla.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.internal|Huíla.internal]] 
 
-### #is_/same_as :: [Huíla.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.protect|Huíla.protect]] 
 
-### #is_/same_as :: [Huíla.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.private|Huíla.private]] 
 
-### #is_/same_as :: [Huíla.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.personal|Huíla.personal]] 
 
-### #is_/same_as :: [Huíla.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Huíla.secret|Huíla.secret]] 
 

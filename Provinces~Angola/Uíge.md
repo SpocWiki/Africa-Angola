@@ -40,17 +40,17 @@ markerFolder: ./Uíge/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uíge](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge|Uíge]] 
 
-### #is_/same_as :: [Uíge.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.public|Uíge.public]] 
 
-### #is_/same_as :: [Uíge.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.internal|Uíge.internal]] 
 
-### #is_/same_as :: [Uíge.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.protect|Uíge.protect]] 
 
-### #is_/same_as :: [Uíge.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.private|Uíge.private]] 
 
-### #is_/same_as :: [Uíge.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.personal|Uíge.personal]] 
 
-### #is_/same_as :: [Uíge.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Uíge.secret|Uíge.secret]] 
 

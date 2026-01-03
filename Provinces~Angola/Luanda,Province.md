@@ -76,19 +76,20 @@ markerFolder: ./Luanda,Province/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luanda) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luanda](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province|Luanda,Province]] 
 
-### #is_/same_as :: [Luanda.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.public|Luanda,Province.public]] 
 
-### #is_/same_as :: [Luanda.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.internal|Luanda,Province.internal]] 
 
-### #is_/same_as :: [Luanda.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.protect|Luanda,Province.protect]] 
 
-### #is_/same_as :: [Luanda.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.private|Luanda,Province.private]] 
 
-### #is_/same_as :: [Luanda.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.personal|Luanda,Province.personal]] 
 
-### #is_/same_as :: [Luanda.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Luanda,Province.secret|Luanda,Province.secret]] 
 

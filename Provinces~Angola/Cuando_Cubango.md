@@ -40,17 +40,17 @@ markerFolder: ./Cuando_Cubango/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuando_Cubango](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango|Cuando_Cubango]] 
 
-### #is_/same_as :: [Cuando_Cubango.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.public|Cuando_Cubango.public]] 
 
-### #is_/same_as :: [Cuando_Cubango.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.internal|Cuando_Cubango.internal]] 
 
-### #is_/same_as :: [Cuando_Cubango.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.protect|Cuando_Cubango.protect]] 
 
-### #is_/same_as :: [Cuando_Cubango.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.private|Cuando_Cubango.private]] 
 
-### #is_/same_as :: [Cuando_Cubango.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.personal|Cuando_Cubango.personal]] 
 
-### #is_/same_as :: [Cuando_Cubango.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuando_Cubango.secret|Cuando_Cubango.secret]] 
 

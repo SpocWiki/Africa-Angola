@@ -39,17 +39,17 @@ markerFolder: ./Bié/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bié](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié|Bié]] 
 
-### #is_/same_as :: [Bié.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.public|Bié.public]] 
 
-### #is_/same_as :: [Bié.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.internal|Bié.internal]] 
 
-### #is_/same_as :: [Bié.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.protect|Bié.protect]] 
 
-### #is_/same_as :: [Bié.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.private|Bié.private]] 
 
-### #is_/same_as :: [Bié.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.personal|Bié.personal]] 
 
-### #is_/same_as :: [Bié.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Bié.secret|Bié.secret]] 
 

@@ -45,17 +45,17 @@ markerFolder: ./Zaire/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zaire](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire|Zaire]] 
 
-### #is_/same_as :: [Zaire.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.public|Zaire.public]] 
 
-### #is_/same_as :: [Zaire.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.internal|Zaire.internal]] 
 
-### #is_/same_as :: [Zaire.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.protect|Zaire.protect]] 
 
-### #is_/same_as :: [Zaire.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.private|Zaire.private]] 
 
-### #is_/same_as :: [Zaire.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.personal|Zaire.personal]] 
 
-### #is_/same_as :: [Zaire.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Zaire.secret|Zaire.secret]] 
 

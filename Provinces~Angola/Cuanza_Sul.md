@@ -40,17 +40,17 @@ markerFolder: ./Cuanza_Sul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuanza_Sul](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul|Cuanza_Sul]] 
 
-### #is_/same_as :: [Cuanza_Sul.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.public|Cuanza_Sul.public]] 
 
-### #is_/same_as :: [Cuanza_Sul.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.internal|Cuanza_Sul.internal]] 
 
-### #is_/same_as :: [Cuanza_Sul.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.protect|Cuanza_Sul.protect]] 
 
-### #is_/same_as :: [Cuanza_Sul.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.private|Cuanza_Sul.private]] 
 
-### #is_/same_as :: [Cuanza_Sul.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.personal|Cuanza_Sul.personal]] 
 
-### #is_/same_as :: [Cuanza_Sul.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Cuanza_Sul.secret|Cuanza_Sul.secret]] 
 

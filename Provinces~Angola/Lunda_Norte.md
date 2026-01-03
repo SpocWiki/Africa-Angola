@@ -40,17 +40,17 @@ markerFolder: ./Lunda_Norte/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lunda_Norte](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte|Lunda_Norte]] 
 
-### #is_/same_as :: [Lunda_Norte.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.public|Lunda_Norte.public]] 
 
-### #is_/same_as :: [Lunda_Norte.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.internal|Lunda_Norte.internal]] 
 
-### #is_/same_as :: [Lunda_Norte.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.protect|Lunda_Norte.protect]] 
 
-### #is_/same_as :: [Lunda_Norte.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.private|Lunda_Norte.private]] 
 
-### #is_/same_as :: [Lunda_Norte.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.personal|Lunda_Norte.personal]] 
 
-### #is_/same_as :: [Lunda_Norte.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Lunda_Norte.secret|Lunda_Norte.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Benguela/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benguela](/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela|Benguela]] 
 
-### #is_/same_as :: [Benguela.public](/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.public|Benguela.public]] 
 
-### #is_/same_as :: [Benguela.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.internal|Benguela.internal]] 
 
-### #is_/same_as :: [Benguela.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.protect|Benguela.protect]] 
 
-### #is_/same_as :: [Benguela.private](/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.private|Benguela.private]] 
 
-### #is_/same_as :: [Benguela.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.personal|Benguela.personal]] 
 
-### #is_/same_as :: [Benguela.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Angola/Provinces~Angola/Benguela.secret|Benguela.secret]] 
 
