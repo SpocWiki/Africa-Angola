@@ -115,7 +115,7 @@ markerFolder: .//
 [Area-Land::1246700] 
 Continent :: [[Africa]]  
 [VehicleCode::ANG] 
-Capital :: [[../Africa~South/Angola/City/Luanda]]  
+Capital :: [[../Africa~South/Angola/City/Luanda|Luanda]]  
 
 ![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
 
