@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Cuando_Cubango/
 markerFolder: ./Cuando_Cubango/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

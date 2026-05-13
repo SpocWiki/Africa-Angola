@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Lunda_Sul/
 markerFolder: ./Lunda_Sul/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
