@@ -149,7 +149,7 @@ ethnic_group:
   - "[[/_Standards/WikiData/WD~Ovimbundu_people,1257799|WD~Ovimbundu_people,1257799]]"
   - "[[/_Standards/WikiData/WD~Mestiço,17073179|WD~Mestiço,17073179]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
   - "[[/_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]"
@@ -783,7 +783,7 @@ dv_UNTERM_Chinese_Formal: 安哥拉共和国
 dv_UNTERM_French_Formal: la République d'Angola
 dv_UNTERM_Russian: Ангола
 dv_UNTERM_Russian_Formal: Республика Ангола
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Middle Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -811,16 +811,16 @@ dv_ISO3: AGO
 dv_has_name_de: Angola
 dv_Area-Total: 1246700
 dv_Area-Land: 1246700
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: ANG
 dv_Alcohol-l: 5.4
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 13.23
 dv_has_place_latitude: -8.8
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
+    - "[[../../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
     - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
     - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
@@ -831,7 +831,7 @@ dv_is_:
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Angola
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[../../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
   - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
   - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
@@ -846,7 +846,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Angola/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -934,7 +934,7 @@ markerFile: [[Angola]]
 
 ```leaflet
 id: Angola_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -958,13 +958,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Angola/Provinces~Angola/Luanda,Province/Luanda,City|Luanda,City]]  
+Capital :: [[Provinces~Angola/Luanda,Province/Luanda,City|Luanda,City]]  
 
-![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
+![[Emblem_of_Angola.svg|350]] 
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Angola.mp3|Anthem-Angola.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Angola.mp3|Anthem-Angola.mp3]]
 
-![[../Africa~South/Angola/Flag_of_Angola.svg|350]] 
+![[Flag_of_Angola.svg|350]] 
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
